@@ -25,16 +25,19 @@
 
 # File marks:
 '0  8  4  ~/.git/MERGE_MSG
+'1  9  4  ~/.git/MERGE_MSG
 
 # Jumplist (newest first):
 -'  8  4  ~/.git/MERGE_MSG
 -'  1  0  ~/.git/MERGE_MSG
+-'  9  4  ~/.git/MERGE_MSG
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/MERGE_MSG
 	"	8	4
 	^	8	5
-	.	8	5
+	.	8	4
 	+	7	0
-	+	8	5
+	+	9	5
+	+	8	4
