@@ -1,1 +1,1 @@
-#GIT Intro
+#git Intro
