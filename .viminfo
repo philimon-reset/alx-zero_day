@@ -9,6 +9,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:set lines
 :set number
 :9
 :$
@@ -22,31 +23,40 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	# the commit.
+""-	CHAR	0
+	#
 
 # File marks:
-'0  7  4  ~/.git/MERGE_MSG
-'1  8  4  ~/.git/MERGE_MSG
-'2  9  4  ~/.git/MERGE_MSG
+'0  8  0  ~/.git/MERGE_MSG
+'1  9  4  ~/.git/MERGE_MSG
+'2  7  4  ~/.git/MERGE_MSG
+'3  10  4  ~/.git/MERGE_MSG
+'4  11  4  ~/.git/MERGE_MSG
 
 # Jumplist (newest first):
--'  7  4  ~/.git/MERGE_MSG
+-'  8  0  ~/.git/MERGE_MSG
 -'  1  0  ~/.git/MERGE_MSG
--'  8  4  ~/.git/MERGE_MSG
 -'  9  4  ~/.git/MERGE_MSG
+-'  7  4  ~/.git/MERGE_MSG
+-'  10  4  ~/.git/MERGE_MSG
+-'  11  4  ~/.git/MERGE_MSG
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/MERGE_MSG
-	"	7	4
-	^	7	5
-	.	7	4
+	"	8	0
+	^	8	0
+	.	8	0
 	+	7	0
-	+	9	5
-	+	8	4
+	+	11	5
+	+	10	4
 	+	1	0
 	+	7	0
+	+	10	0
+	+	7	13
+	+	9	4
+	+	1	0
 	+	8	0
-	+	7	4
 	e	7	0
